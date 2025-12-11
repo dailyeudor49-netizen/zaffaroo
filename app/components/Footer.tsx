@@ -10,12 +10,12 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <h3 className="font-bold text-lg mb-3">Zaffaroo</h3>
             <p className="text-gray-400 text-sm mb-3">
-              Premium tech gadgets and electronics at wholesale prices. Fast delivery worldwide.
+              Wholesale tech that sparks joy! Fun products, serious business, Austrian quality.
             </p>
             <div className="text-gray-400 text-sm space-y-1">
               <p>info@zaffaroo.com</p>
-              <p>12 Nowy Świat</p>
-              <p>Warsaw 00-400, Poland</p>
+              <p>Mariahilfer Straße 88</p>
+              <p>1070 Wien, Austria</p>
             </div>
           </div>
 
@@ -49,10 +49,10 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-3 text-sm text-gray-500">
-          <p>&copy; {year} Zaffaroo Sp. z o.o. All rights reserved.</p>
+          <p>&copy; {year} Zaffaroo GmbH. All rights reserved.</p>
           <div className="flex gap-4">
-            <span>VAT: PL 1234567890</span>
-            <span>Registered in Poland</span>
+            <span>VAT: ATU 73829146</span>
+            <span>Registered in Austria</span>
           </div>
         </div>
       </div>

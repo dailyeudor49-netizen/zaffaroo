@@ -91,13 +91,13 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-gray-900 mb-3">10. Contact Information</h2>
               <p className="text-gray-600">
-                Zaffaroo Sp. z o.o.<br />
-                12 Nowy Świat<br />
-                Warsaw 00-400<br />
-                Poland<br />
-                Email: info@zaffaroo.com<br />
-                VAT: PL 1234567890<br />
-                Registered in Poland
+                Zaffaroo GmbH<br />
+                Mariahilfer Straße 88<br />
+                1070 Wien<br />
+                Austria<br />
+                Email: hello@zaffaroo.at<br />
+                VAT: ATU 73829146<br />
+                Registered in Austria
               </p>
             </div>
           </div>
